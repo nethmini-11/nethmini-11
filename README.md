@@ -16,6 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethmini999&show_icons=true&locale=en&layout=compact" alt="nethmini999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethmini999&show_icons=true&locale=en" alt="nethmini999" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmini999&" alt="nethmini999" /></p>
 
