@@ -1,7 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=60)
 
 # 💫About Me :
 Hello Everyone  😃🖐️
+
 I am a Software engineering undergraduate currently completing the 3rd year 👩‍💻
+
 It’s not a bug — it’s a feature  😜
 
 Let's Go......
