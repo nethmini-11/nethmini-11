@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Welcome%20To%20My%20Github👩&fontSize=40&render&animation=fadeIn&fontAlignY=35)
 
+![computer](https://user-images.githubusercontent.com/83303587/162707648-e819aeae-1097-40da-a916-22d17496febb.gif)
+
+
 # 💫About Me :
 Hello Everyone  😃🖐️
 
