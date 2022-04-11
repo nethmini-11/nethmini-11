@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Welcome%20To%20My%20Github&fontSize=40&render&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Welcome%20To%20My%20Github👩&fontSize=40&render&animation=fadeIn&fontAlignY=35)
 
 # 💫About Me :
 Hello Everyone  😃🖐️
@@ -29,5 +29,5 @@ Let's Go......
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&text=Good%20Bye&fontSize=40&render&animation=fadeIn&fontAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&text=Good%20Bye🙋‍♀️&fontSize=40&render&animation=fadeIn&fontAlignY=65)
 
