@@ -7,10 +7,6 @@ Hello Everyone  😃🖐️ I am Nethmini
 
 I am a Software engineering undergraduate 👩‍💻
 
-Always my mind says ,
-         
-         <It’s not a bug — it’s a feature /> 😜
-
 Let's Go......
 
 # 💻Tech Stack 
