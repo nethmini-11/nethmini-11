@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Welcome%20To%20My%20Github👩&fontSize=40&render&animation=fadeIn&fontAlignY=35)
-
-![1_qdAW1TjCN57h1lbuuzvchg](https://user-images.githubusercontent.com/83303587/162708487-49d5825b-8829-4b8f-b79c-6e844b5fba4e.gif)
-
 # 💫About Me
 Hello Everyone  😃🖐️ I am Nethmini 
 
@@ -38,16 +34,5 @@ Let's Go......
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nethmini-11&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nethmini-11&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-
-
-### 😂Random Dev Meme :
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&text=Good%20Bye🙋‍♀️&fontSize=40&render&animation=fadeIn&fontAlignY=65)
 
