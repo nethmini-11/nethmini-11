@@ -43,5 +43,5 @@ Welcome to my GitHub profile. I am Nethmini Gunawardhana, a Software Engineer sp
 
 ### Contact
 
-- **LinkedIn:** [Nethmini Gunawardhana](https://www.linkedin.com/in/nethmini-gunawardhana)
+- **LinkedIn:** [Nethmini Gunawardhana](www.linkedin.com/in/nethmini-gunawardhana-54636a1b9)
 - **Email:** manthika99911@gmail.com
