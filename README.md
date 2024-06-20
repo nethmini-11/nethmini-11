@@ -4,36 +4,36 @@
 
 🌐 Sri Lanka
 
-Welcome to my GitHub profile! I'm Neethmini Gunawardhana, a passionate Software Engineer with expertise in Fullstack Development. I thrive on crafting innovative solutions and creating seamless user experiences. Feel free to explore my work and connect with me!
+Welcome to my GitHub profile. I am Nethmini Gunawardhana, a Software Engineer specializing in Fullstack Development. Explore my work and feel free to connect.
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
-#### Languages
+**Languages**
 - Java
 - JavaScript (Node.js)
 - TypeScript
 
-#### Frontend
+**Frontend**
 - HTML5
 - CSS3
 - React
 - Material-UI
 
-#### Backend
+**Backend**
 - Spring Framework
 - Node.js
 - Express.js
 
-#### Databases
+**Databases**
 - MySQL
 - SQLite
 - MongoDB
 
-#### Tools & IDEs
+**Tools & IDEs**
 - Visual Studio Code
 - Eclipse
 
-### 📊 GitHub Stats
+### GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethmini-11&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -41,3 +41,7 @@ Welcome to my GitHub profile! I'm Neethmini Gunawardhana, a passionate Software 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethmini-11&theme=dark&layout=compact&hide_border=true&count_private=true)
 
+### Contact
+
+- **LinkedIn:** [Nethmini Gunawardhana](https://www.linkedin.com/in/nethmini-gunawardhana)
+- **Email:** manthika99911@gmail.com
